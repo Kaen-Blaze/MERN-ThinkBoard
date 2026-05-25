@@ -33,3 +33,4 @@ The project is styled with **DaisyUI** for a modern UI experience and uses **Ups
 
 git clone https://github.com/abhinand2511/thinkboard.git
 cd MERN-THINKBOARD
+let's do that
